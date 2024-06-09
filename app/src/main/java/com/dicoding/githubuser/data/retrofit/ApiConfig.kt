@@ -12,7 +12,7 @@ class ApiConfing {
             val authInterceptor = Interceptor { chain ->
                 val req = chain.request()
                 val requestHeaders = req.newBuilder()
-                    .addHeader("Authorization", "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")
+//                    .addHeader("Authorization", "GITHUB_TOKEN")
                     .build()
                 chain.proceed(requestHeaders)
             }
