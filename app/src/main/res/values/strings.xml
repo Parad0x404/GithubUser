@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="searchbar_hint">mau cari siapa?</string>
+    <string name="nama">Nama User</string>
+    <string name="username">Username</string>
+    <string name="followers">%s Followers</string>
+    <string name="following">%s Following</string>
+    <string name="emptyNotif">Hasil pencarian kosong.</string>
+    <string name="insert">Ditambahkan Ke Favorite List.</string>
+    <string name="delete">Dihapus Dari Favorite List.</string>
+    <string name="emptyTv">Favorite List Masih Kosong.</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Theme Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+</resources>
